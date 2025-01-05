@@ -54,10 +54,6 @@ pipeline
                                   reportName: 'HTML Extent Report', 
                                   reportTitles: ''])
             }
-        }
-        
-        
-        
-        
+        }          
     }
 }
